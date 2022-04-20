@@ -1,5 +1,3 @@
-
-# Importing modules
 import datetime
 import json
 import hashlib
